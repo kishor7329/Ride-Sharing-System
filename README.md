@@ -140,7 +140,7 @@ rideshare/
 
 ## 🔄 System Flowchart
 
-
+![Flowchart](rideshare_system_flowchart.svg)
 
 ## 📖 Flow Description
 
