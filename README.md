@@ -141,7 +141,6 @@ rideshare/
 ## 🔄 System Flowchart
 
 
----
 
 ## 📖 Flow Description
 
