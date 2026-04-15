@@ -251,6 +251,9 @@ cp config.sample.php config.php
 - [ ] Mobile-responsive redesign with Tailwind CSS
 
 ---
+## 📊 ER Diagram
+![ER Diagram](er_diagram.png)
+ 
 
 ## 📜 License
 
@@ -259,3 +262,28 @@ This project is licensed under the [MIT License](LICENSE).
 ---
 
 > Built with PHP & MySQL · Designed for learning and extensibility
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 900" font-family="Arial, Helvetica, sans-serif">
+  <defs>
+    <style>
+      .entity { fill: #e1f5fe; stroke: #0288d1; stroke-width: 2; }
+      .entity-text { fill: #01579b; font-weight: bold; font-size: 14px; text-anchor: middle; }
+      .attr { fill: #fff9c4; stroke: #fbc02d; stroke-width: 2; }
+      .attr-text { fill: #f57f17; font-size: 11px; text-anchor: middle; }
+      .rel { fill: #f3e5f5; stroke: #7b1fa2; stroke-width: 2; }
+      .rel-text { fill: #4a148c; font-weight: bold; font-size: 12px; text-anchor: middle; }
+      .line { stroke: #555; stroke-width: 1.5; fill: none; }
+      .key { fill: #ffccbc; stroke: #e65100; stroke-width: 2; }
+      .key-text { fill: #bf360c; font-size: 10px; text-anchor: middle; font-weight: bold; }
+      .fk { fill: #c8e6c9; stroke: #388e3c; stroke-width: 2; stroke-dasharray: 4,2; }
+      .fk-text { fill: #1b5e20; font-size: 9px; text-anchor: middle; }
+      .label { font-size: 11px; fill: #333; }
+      .title { font-size: 20px; font-weight: bold; fill: #1565c0; text-anchor: middle; }
+      .cardinality { font-size: 10px; fill: #c62828; font-weight: bold; }
+      .section-title { font-size: 13px; font-weight: bold; fill: #006064; }
+     ## Database Schema
+ 
+    </style>
+  </defs>
+ 
+
+  
