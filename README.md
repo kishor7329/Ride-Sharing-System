@@ -252,7 +252,7 @@ cp config.sample.php config.php
 
 ---
 ## 📊 ER Diagram
-![ER Diagram](er_diagram.png)
+![ER Diagram](er_diagram .png)
  
 
 ## 📜 License
